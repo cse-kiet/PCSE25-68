@@ -1,30 +1,23 @@
-# Advanced Prognostic Framework for Multi-Disease Prediction Utilizing Machine Learning Algorithms
-_Project ID:_
+# Title of Project: [PROJECT_TITLE_HERE]
 
-**PCSE25-68**
+## Team Members:
+1. [TEAM_MEMBER_1_NAME]
+2. [TEAM_MEMBER_2_NAME]
+3. [TEAM_MEMBER_3_NAME]
+4. [TEAM_MEMBER_4_NAME]
 
+## Steps for Execution:
+1. [STEP 1]
+2. [STEP 2]
+   (Add more steps as needed)
 
-_Mentor:_ 
-
-**Mr. Rahul Kumar Sharma**
-
-_Team Members:_
-
-1) **Utkarsh Jain**
-   
-   utkarsh.2125cse1179@kiet.edu
-   
-   _Univ Roll No:_ 2100290100178
-   
-3) **Tushar Kumar**
-   
-   tushar.2125cse1018@kiet.edu
-   
-   _Univ Roll No:_ 2100290100176
-   
-5) **Pranav Mishra**
-   
-   pranav.2125cse1041@kiet.edu
-
-   _Univ Roll No:_ 2100290100116
-
+## Checklist:
+1. Final Project Report
+2. Certificate VII Semester (Dated: December 2024).
+3. Certificate VIII Semester (Dated: May 2025).
+4. Synopsis
+5. Final Presentation
+6. Source Code
+7. Database dump (.sql file)
+8. If a web project, then a Docker file for deployment
+9. README (This file)
