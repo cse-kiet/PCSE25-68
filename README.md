@@ -1,4 +1,4 @@
-# Title of Project: [Advanced Prognostic Framework for Multi-Disease Prediction Utilizing Machine Learning Algorithms]
+# Title of Project: Advanced Prognostic Framework for Multi-Disease Prediction Utilizing Machine Learning Algorithms
 
 ## Team Members:
 1. Utkarsh Jain (2100290100178)
